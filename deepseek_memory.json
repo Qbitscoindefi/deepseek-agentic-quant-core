@@ -1,0 +1,6808 @@
+{
+  "events": [
+    {
+      "time": "2026-06-10T22:58:41.974059",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 1,
+        "price": 62761.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T22:58:47.179011",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "DATOS_OBSOLETOS",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T22:59:13.648636",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 2,
+        "price": 62719.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T22:59:18.012496",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "DATOS_OBSOLETOS",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T22:59:35.509402",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 3,
+        "price": 62710.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T22:59:39.671670",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "DATOS_OBSOLETOS",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T22:59:58.673069",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 4,
+        "price": 62680.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:00:03.606308",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "DATOS_OBSOLETOS",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:00:20.944349",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 5,
+        "price": 62657.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:00:25.826103",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SOBRECOMPRADO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:00:42.868180",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 6,
+        "price": 62651.6,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:00:47.007688",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SOBRECOMPRADO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:01:05.073448",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 7,
+        "price": 62631.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:01:09.276419",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SOBRECOMPRADO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:01:27.826762",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 8,
+        "price": 62607.5,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:01:31.899616",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SOBRECOMPRADO_EXTREMO_CISNE_NEGRO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:01:57.637067",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 9,
+        "price": 62570.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:02:02.431601",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:02:27.522984",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 10,
+        "price": 62595.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:02:32.283565",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:02:56.007254",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 11,
+        "price": 62638.6,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:03:00.913695",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:04:24.665512",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 12,
+        "price": 62618.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:05:17.428914",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 1,
+        "price": 62609.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:05:22.242777",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:05:47.834429",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 2,
+        "price": 62569.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:05:52.340181",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:06:16.485284",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 3,
+        "price": 62586.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:06:20.771843",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:06:45.570055",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 4,
+        "price": 62593.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:06:50.076381",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:07:11.138316",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 5,
+        "price": 62560.7,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:07:15.468339",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:07:38.733198",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 6,
+        "price": 62559.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:07:43.186136",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:08:24.148186",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 7,
+        "price": 62575.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:08:28.451234",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:08:48.806278",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 8,
+        "price": 62593.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:08:52.923883",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:09:12.578774",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 9,
+        "price": 62599.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:09:16.911177",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:09:42.709619",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 10,
+        "price": 62571.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:09:47.031775",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:10:07.074824",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 11,
+        "price": 62574.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:10:11.654111",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:10:31.307392",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 12,
+        "price": 62562.6,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:10:35.771624",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:10:55.754007",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 13,
+        "price": 62579.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:11:00.030639",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:11:19.948409",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 14,
+        "price": 62636.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:11:24.421357",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:11:44.395512",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 15,
+        "price": 62618.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:11:48.365830",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:12:13.512638",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 16,
+        "price": 62626.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:12:19.298845",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:12:42.500473",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 17,
+        "price": 62663.7,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:12:47.231392",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:13:19.777140",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 18,
+        "price": 62640.5,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:13:25.244798",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:14:02.636227",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 19,
+        "price": 62684.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:14:08.236739",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:14:34.626665",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 20,
+        "price": 62671.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:14:38.948140",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:15:01.275361",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 21,
+        "price": 62646.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:15:05.722561",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:15:35.359099",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 22,
+        "price": 62618.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:15:40.006116",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:16:09.384554",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 23,
+        "price": 62631.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:16:13.677307",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:16:44.981109",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 24,
+        "price": 62671.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:16:49.849519",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:17:19.949029",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 25,
+        "price": 62627.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:17:25.369532",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:17:59.650982",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 26,
+        "price": 62600.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:18:05.335865",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:18:28.885060",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 27,
+        "price": 62601.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:18:33.261554",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:18:53.497293",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 28,
+        "price": 62578.6,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:18:58.547011",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:19:22.573487",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 29,
+        "price": 62589.5,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:19:26.868389",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:19:46.574576",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 30,
+        "price": 62605.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:19:50.840446",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:20:09.391948",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 31,
+        "price": 62624.6,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:20:14.077971",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:20:32.833065",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 32,
+        "price": 62620.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:20:36.724537",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:20:54.894022",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 33,
+        "price": 62648.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:20:59.579728",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:21:22.699195",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 34,
+        "price": 62670.6,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:21:27.710172",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:21:45.798516",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 35,
+        "price": 62655.6,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:21:50.842563",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:22:08.900778",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 36,
+        "price": 62607.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:22:13.164094",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:22:31.701691",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 37,
+        "price": 62600.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:22:36.369853",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:22:54.684639",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 38,
+        "price": 62601.3,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:22:59.411833",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:23:16.643017",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 39,
+        "price": 62601.3,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:23:20.981036",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:23:39.073327",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 40,
+        "price": 62611.3,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:23:43.235926",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:24:01.693205",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 41,
+        "price": 62585.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:24:06.015470",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:24:23.969401",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 42,
+        "price": 62600.5,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:24:29.101666",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:24:46.990213",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 43,
+        "price": 62618.5,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:24:52.051332",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:25:12.134665",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 44,
+        "price": 62606.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:25:16.318205",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:25:34.404904",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 45,
+        "price": 62584.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:25:38.390613",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:25:56.314741",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 46,
+        "price": 62583.5,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:26:00.843037",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:26:19.989718",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 47,
+        "price": 62594.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:26:24.151698",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:26:41.545985",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 48,
+        "price": 62602.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:26:46.016627",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:27:03.965573",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 49,
+        "price": 62613.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:27:08.241673",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:27:26.125847",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 50,
+        "price": 62586.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:27:30.088286",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:27:50.206819",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 51,
+        "price": 62573.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:27:54.588897",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:28:32.378090",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 1,
+        "price": 62573.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:28:36.060693",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:28:37.044712",
+      "type": "trade_opened",
+      "message": "SHORT abierta",
+      "metadata": {
+        "price": 62573.8,
+        "size": 0.001,
+        "cost": 0.062674,
+        "expected_net_gain": -0.009652
+      }
+    },
+    {
+      "time": "2026-06-10T23:28:56.246364",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 2,
+        "price": 62578.4,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-10T23:29:01.534459",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SOBRECOMPRADO_CIERRE",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:29:03.908768",
+      "type": "trade_closed",
+      "message": "Cierre por CERRAR",
+      "metadata": {
+        "side": "SHORT",
+        "entry": 62573.8,
+        "exit": 62578.4,
+        "pnl": -0.0045999999999985445,
+        "duration_sec": 27
+      }
+    },
+    {
+      "time": "2026-06-10T23:29:21.900075",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 3,
+        "price": 62583.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:29:26.330808",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:29:44.068095",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 4,
+        "price": 62585.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:29:48.772040",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:30:06.591388",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 5,
+        "price": 62595.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:30:11.523327",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:30:12.612412",
+      "type": "trade_opened",
+      "message": "SHORT abierta",
+      "metadata": {
+        "price": 62595.9,
+        "size": 0.001,
+        "cost": 0.062696,
+        "expected_net_gain": -0.009674
+      }
+    },
+    {
+      "time": "2026-06-10T23:30:30.707676",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 6,
+        "price": 62604.0,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-10T23:30:33.929878",
+      "type": "trade_closed",
+      "message": "Cierre por MOMENTUM_FAIL",
+      "metadata": {
+        "side": "SHORT",
+        "entry": 62595.9,
+        "exit": 62610.2,
+        "pnl": -0.0113,
+        "duration_sec": 22
+      }
+    },
+    {
+      "time": "2026-06-10T23:30:51.674397",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 7,
+        "price": 62610.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:30:56.332868",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:31:13.665151",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 8,
+        "price": 62612.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:31:17.378856",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:31:34.391059",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 9,
+        "price": 62604.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:31:38.792483",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:31:56.839385",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 10,
+        "price": 62592.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:32:00.851453",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:32:18.299950",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 11,
+        "price": 62587.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:32:23.093501",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:32:40.798595",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 12,
+        "price": 62562.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:32:45.375066",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:32:46.475416",
+      "type": "trade_opened",
+      "message": "SHORT abierta",
+      "metadata": {
+        "price": 62562.4,
+        "size": 0.001,
+        "cost": 0.062662,
+        "expected_net_gain": -0.010355
+      }
+    },
+    {
+      "time": "2026-06-10T23:33:05.686488",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 13,
+        "price": 62567.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-10T23:33:08.861572",
+      "type": "trade_closed",
+      "message": "Cierre por MOMENTUM_FAIL",
+      "metadata": {
+        "side": "SHORT",
+        "entry": 62562.4,
+        "exit": 62587.9,
+        "pnl": -0.02,
+        "duration_sec": 23
+      }
+    },
+    {
+      "time": "2026-06-10T23:33:26.147839",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 14,
+        "price": 62583.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:33:29.977158",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:33:48.095925",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 15,
+        "price": 62563.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:47:04.523960",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 1,
+        "price": 62676.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:47:08.530614",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:47:09.862866",
+      "type": "trade_opened",
+      "message": "LONG abierta",
+      "metadata": {
+        "price": 62676.0,
+        "size": 0.001,
+        "cost": 0.062776,
+        "expected_net_gain": 0.021837
+      }
+    },
+    {
+      "time": "2026-06-10T23:47:32.998822",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 2,
+        "price": 62672.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-10T23:47:38.432091",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SOBRECOMPRADO_CIERRE",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:47:58.731934",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 3,
+        "price": 62709.8,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-10T23:48:04.488043",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SOBRECOMPRADO_CIERRE",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:48:06.682033",
+      "type": "trade_closed",
+      "message": "Cierre por CERRAR",
+      "metadata": {
+        "side": "LONG",
+        "entry": 62676.0,
+        "exit": 62709.8,
+        "pnl": 0.03380000000000291,
+        "duration_sec": 58
+      }
+    },
+    {
+      "time": "2026-06-10T23:48:32.439741",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 4,
+        "price": 62736.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:48:37.157168",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SOBRECOMPRADO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:48:38.725498",
+      "type": "trade_opened",
+      "message": "LONG abierta",
+      "metadata": {
+        "price": 62736.1,
+        "size": 0.001,
+        "cost": 0.062836,
+        "expected_net_gain": 0.021858
+      }
+    },
+    {
+      "time": "2026-06-10T23:49:08.510906",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 5,
+        "price": 62707.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-10T23:49:14.875383",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.9,
+        "razon": "SOBRECOMPRADO_EXTREMO",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:49:38.764316",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 6,
+        "price": 62744.0,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-10T23:49:42.458487",
+      "type": "trade_closed",
+      "message": "Cierre por TIMEBOX_EXIT",
+      "metadata": {
+        "side": "LONG",
+        "entry": 62736.1,
+        "exit": 62755.9,
+        "pnl": 0.0479,
+        "duration_sec": 65
+      }
+    },
+    {
+      "time": "2026-06-10T23:50:07.846247",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 7,
+        "price": 62755.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:50:11.663307",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SOBRECOMPRADO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:50:13.043751",
+      "type": "trade_opened",
+      "message": "LONG abierta",
+      "metadata": {
+        "price": 62755.8,
+        "size": 0.001,
+        "cost": 0.062856,
+        "expected_net_gain": 0.021865
+      }
+    },
+    {
+      "time": "2026-06-10T23:50:41.797353",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 8,
+        "price": 62750.0,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-10T23:50:47.069012",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SOBRECOMPRADO_EXTREMO",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:51:06.692818",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 9,
+        "price": 62786.4,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-10T23:51:10.052712",
+      "type": "trade_closed",
+      "message": "Cierre por TIMEBOX_EXIT",
+      "metadata": {
+        "side": "LONG",
+        "entry": 62755.8,
+        "exit": 62799.78363768,
+        "pnl": 0.04968363,
+        "duration_sec": 58
+      }
+    },
+    {
+      "time": "2026-06-10T23:51:28.594494",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 10,
+        "price": 62795.3,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:51:32.820395",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SOBRECOMPRADO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:51:33.951827",
+      "type": "trade_opened",
+      "message": "LONG abierta",
+      "metadata": {
+        "price": 62795.3,
+        "size": 0.001,
+        "cost": 0.062895,
+        "expected_net_gain": 0.021878
+      }
+    },
+    {
+      "time": "2026-06-10T23:51:53.884630",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 11,
+        "price": 62810.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-10T23:51:59.688339",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SOBRECOMPRADO_EXTREMO",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:52:18.753706",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 12,
+        "price": 62770.7,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-10T23:52:23.445060",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SOBRECOMPRADO_EXTREMO",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:52:42.784386",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 13,
+        "price": 62820.1,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-10T23:52:46.077806",
+      "type": "trade_closed",
+      "message": "Cierre por TIMEBOX_EXIT",
+      "metadata": {
+        "side": "LONG",
+        "entry": 62795.3,
+        "exit": 62821.12316667,
+        "pnl": 0.01252316,
+        "duration_sec": 73
+      }
+    },
+    {
+      "time": "2026-06-10T23:53:05.165318",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 14,
+        "price": 62800.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:53:08.878091",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SOBRECOMPRADO_EXTREMO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:53:10.044904",
+      "type": "trade_opened",
+      "message": "LONG abierta",
+      "metadata": {
+        "price": 62800.0,
+        "size": 0.001,
+        "cost": 0.0629,
+        "expected_net_gain": 0.02188
+      }
+    },
+    {
+      "time": "2026-06-10T23:53:29.759252",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 15,
+        "price": 62776.1,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-10T23:53:34.911489",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SOBRECOMPRADO_EXTREMO",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:53:58.932522",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 16,
+        "price": 62770.0,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-10T23:54:04.896843",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SOBRECOMPRADO_EXTREMO",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:54:07.080349",
+      "type": "trade_closed",
+      "message": "Cierre por CERRAR",
+      "metadata": {
+        "side": "LONG",
+        "entry": 62800.0,
+        "exit": 62770.0,
+        "pnl": -0.03,
+        "duration_sec": 58
+      }
+    },
+    {
+      "time": "2026-06-10T23:54:32.412708",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 17,
+        "price": 62766.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:54:36.550796",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:54:59.396782",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 18,
+        "price": 62760.7,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:55:03.947747",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:55:29.806709",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 19,
+        "price": 62780.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:55:35.610150",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:55:39.207634",
+      "type": "trade_opened",
+      "message": "LONG abierta",
+      "metadata": {
+        "price": 62780.2,
+        "size": 0.001,
+        "cost": 0.06288,
+        "expected_net_gain": 0.021873
+      }
+    },
+    {
+      "time": "2026-06-10T23:56:05.642692",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 20,
+        "price": 62790.3,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-10T23:56:11.699500",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SOBRECOMPRADO_CIERRE",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:56:32.258707",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 21,
+        "price": 62757.3,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-10T23:56:35.708665",
+      "type": "trade_closed",
+      "message": "Cierre por TIMEBOX_EXIT",
+      "metadata": {
+        "side": "LONG",
+        "entry": 62780.2,
+        "exit": 62754.3,
+        "pnl": -0.0331,
+        "duration_sec": 60
+      }
+    },
+    {
+      "time": "2026-06-10T23:56:54.151098",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 22,
+        "price": 62750.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:56:58.026033",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SOBRECOMPRADO_CISNE_NEGRO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:57:16.967501",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 23,
+        "price": 62749.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:57:21.086427",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:57:41.702230",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 24,
+        "price": 62733.6,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:57:46.123567",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SOBRECOMPRADO_CISNE_NEGRO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:58:15.126071",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 25,
+        "price": 62750.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:58:21.121955",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:58:40.429709",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 26,
+        "price": 62691.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-10T23:58:44.463794",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:58:45.592573",
+      "type": "trade_opened",
+      "message": "LONG abierta",
+      "metadata": {
+        "price": 62691.0,
+        "size": 0.001,
+        "cost": 0.062791,
+        "expected_net_gain": 0.021842
+      }
+    },
+    {
+      "time": "2026-06-10T23:59:05.976308",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 27,
+        "price": 62669.4,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-10T23:59:11.292692",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SOBRECOMPRADO_CISNE_NEGRO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:59:32.136068",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 28,
+        "price": 62662.7,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-10T23:59:37.361859",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-10T23:59:57.131699",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 29,
+        "price": 62692.2,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:00:00.461269",
+      "type": "trade_closed",
+      "message": "Cierre por TIMEBOX_EXIT",
+      "metadata": {
+        "side": "LONG",
+        "entry": 62691.0,
+        "exit": 62699.53505797,
+        "pnl": 0.02333505,
+        "duration_sec": 75
+      }
+    },
+    {
+      "time": "2026-06-11T00:00:18.610028",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 30,
+        "price": 62694.3,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:00:22.084649",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:00:23.218855",
+      "type": "trade_opened",
+      "message": "LONG abierta",
+      "metadata": {
+        "price": 62694.3,
+        "size": 0.001,
+        "cost": 0.062794,
+        "expected_net_gain": 0.021843
+      }
+    },
+    {
+      "time": "2026-06-11T00:00:41.852748",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 31,
+        "price": 62645.0,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:00:47.121237",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:01:07.359419",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 32,
+        "price": 62600.3,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:01:10.566597",
+      "type": "trade_closed",
+      "message": "Cierre por MOMENTUM_FAIL",
+      "metadata": {
+        "side": "LONG",
+        "entry": 62694.3,
+        "exit": 62582.49460145,
+        "pnl": -0.05140539,
+        "duration_sec": 48
+      }
+    },
+    {
+      "time": "2026-06-11T00:01:28.453885",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 33,
+        "price": 62588.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:01:33.358833",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:01:51.353586",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 34,
+        "price": 62574.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:01:55.908690",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "EVALUANDO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:02:14.373530",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 35,
+        "price": 62570.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:02:18.573331",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "EVALUANDO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:02:19.690247",
+      "type": "trade_opened",
+      "message": "SHORT abierta",
+      "metadata": {
+        "price": 62570.2,
+        "size": 0.001,
+        "cost": 0.06267,
+        "expected_net_gain": 0.0218
+      }
+    },
+    {
+      "time": "2026-06-11T00:02:38.528691",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 36,
+        "price": 62557.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:02:43.664493",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.75,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:03:02.257456",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 37,
+        "price": 62599.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:03:07.732915",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.75,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:03:27.086309",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 38,
+        "price": 62578.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:03:30.295151",
+      "type": "trade_closed",
+      "message": "Cierre por TIMEBOX_EXIT",
+      "metadata": {
+        "side": "SHORT",
+        "entry": 62570.2,
+        "exit": 62569.9,
+        "pnl": -0.0121,
+        "duration_sec": 71
+      }
+    },
+    {
+      "time": "2026-06-11T00:03:48.167214",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 39,
+        "price": 62579.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:03:52.213566",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:04:10.814836",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 40,
+        "price": 62564.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:04:15.053786",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:04:33.356888",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 41,
+        "price": 62567.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:04:37.490052",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:04:55.693129",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 42,
+        "price": 62554.6,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:04:59.552296",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:05:17.599625",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 43,
+        "price": 62557.7,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:05:21.508094",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "EVALUANDO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:05:40.359043",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 44,
+        "price": 62550.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:05:44.820591",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "EVALUANDO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:05:45.892208",
+      "type": "trade_opened",
+      "message": "SHORT abierta",
+      "metadata": {
+        "price": 62550.1,
+        "size": 0.001,
+        "cost": 0.06265,
+        "expected_net_gain": 0.021793
+      }
+    },
+    {
+      "time": "2026-06-11T00:06:04.789554",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 45,
+        "price": 62546.3,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:06:10.071642",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.75,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:06:29.162995",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 46,
+        "price": 62557.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:06:34.653067",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.75,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:06:54.570301",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 47,
+        "price": 62531.3,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:06:57.930310",
+      "type": "trade_closed",
+      "message": "Cierre por TIMEBOX_EXIT",
+      "metadata": {
+        "side": "SHORT",
+        "entry": 62550.1,
+        "exit": 62533.1,
+        "pnl": 0.013,
+        "duration_sec": 73
+      }
+    },
+    {
+      "time": "2026-06-11T00:07:16.002076",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 48,
+        "price": 62533.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:07:20.061683",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "EVALUANDO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:07:21.211482",
+      "type": "trade_opened",
+      "message": "SHORT abierta",
+      "metadata": {
+        "price": 62533.0,
+        "size": 0.001,
+        "cost": 0.062633,
+        "expected_net_gain": 0.021787
+      }
+    },
+    {
+      "time": "2026-06-11T00:07:40.445556",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 49,
+        "price": 62557.1,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:07:45.432328",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:08:21.420027",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 50,
+        "price": 62549.8,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:08:25.057216",
+      "type": "trade_closed",
+      "message": "Cierre por TIMEBOX_EXIT",
+      "metadata": {
+        "side": "SHORT",
+        "entry": 62533.0,
+        "exit": 62568.4,
+        "pnl": -0.0113,
+        "duration_sec": 64
+      }
+    },
+    {
+      "time": "2026-06-11T00:08:49.537525",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 51,
+        "price": 62570.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:08:54.768495",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "EVALUANDO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:09:23.795950",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 52,
+        "price": 62573.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:09:27.870843",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "EVALUANDO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:09:55.493398",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 53,
+        "price": 62570.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:10:01.135043",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "EVALUANDO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:10:29.645609",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 54,
+        "price": 62595.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:10:33.706951",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:11:00.844638",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 55,
+        "price": 62599.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:11:05.066965",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:11:06.339716",
+      "type": "trade_opened",
+      "message": "SHORT abierta",
+      "metadata": {
+        "price": 62599.2,
+        "size": 0.001,
+        "cost": 0.062699,
+        "expected_net_gain": 0.02181
+      }
+    },
+    {
+      "time": "2026-06-11T00:11:28.671133",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 56,
+        "price": 62574.3,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:11:34.012616",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.75,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:12:05.847336",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 57,
+        "price": 62558.4,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:12:37.378761",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 58,
+        "price": 62565.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:12:41.772281",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:12:42.927279",
+      "type": "trade_opened",
+      "message": "SHORT abierta",
+      "metadata": {
+        "price": 62565.0,
+        "size": 0.001,
+        "cost": 0.062665,
+        "expected_net_gain": 0.021798
+      }
+    },
+    {
+      "time": "2026-06-11T00:13:04.316362",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 59,
+        "price": 62590.1,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:13:09.460871",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.75,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:13:36.574307",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 60,
+        "price": 62580.1,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:14:09.959030",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 61,
+        "price": 62576.3,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:14:16.852813",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_ACTIVO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:14:18.125446",
+      "type": "trade_opened",
+      "message": "SHORT abierta",
+      "metadata": {
+        "price": 62576.3,
+        "size": 0.001,
+        "cost": 0.062676,
+        "expected_net_gain": 0.021802
+      }
+    },
+    {
+      "time": "2026-06-11T00:14:43.177192",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 62,
+        "price": 62581.2,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:14:49.336461",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.75,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:15:20.844567",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 63,
+        "price": 62596.0,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:15:41.203036",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 64,
+        "price": 62600.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:15:44.851985",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:15:46.028368",
+      "type": "trade_opened",
+      "message": "LONG abierta",
+      "metadata": {
+        "price": 62600.0,
+        "size": 0.001,
+        "cost": 0.0627,
+        "expected_net_gain": 0.02181
+      }
+    },
+    {
+      "time": "2026-06-11T00:16:05.954214",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 65,
+        "price": 62627.6,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:16:13.885835",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.75,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:16:47.812550",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 66,
+        "price": 62663.3,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:17:10.316341",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 67,
+        "price": 62646.7,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:17:14.656276",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:17:15.802392",
+      "type": "trade_opened",
+      "message": "LONG abierta",
+      "metadata": {
+        "price": 62646.7,
+        "size": 0.001,
+        "cost": 0.062747,
+        "expected_net_gain": 0.021826
+      }
+    },
+    {
+      "time": "2026-06-11T00:17:37.219246",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 68,
+        "price": 62668.7,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:17:42.808290",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.75,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:18:12.098571",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 69,
+        "price": 62653.1,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:18:22.932787",
+      "type": "trade_closed",
+      "message": "Cierre por TIMEBOX_EXIT",
+      "metadata": {
+        "side": "LONG",
+        "entry": 62646.7,
+        "exit": 62662.1,
+        "pnl": -0.0127,
+        "duration_sec": 68
+      }
+    },
+    {
+      "time": "2026-06-11T00:18:44.179866",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 70,
+        "price": 62657.5,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:18:48.238232",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:19:06.729966",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 71,
+        "price": 62621.7,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:19:10.806840",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:19:31.694295",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 72,
+        "price": 62621.6,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:19:36.906049",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:20:03.213019",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 73,
+        "price": 62621.7,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:20:06.770609",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:20:25.484624",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 74,
+        "price": 62599.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:20:29.545080",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:20:30.727663",
+      "type": "trade_opened",
+      "message": "SHORT abierta",
+      "metadata": {
+        "price": 62599.8,
+        "size": 0.001,
+        "cost": 0.0627,
+        "expected_net_gain": 0.02181
+      }
+    },
+    {
+      "time": "2026-06-11T00:20:51.251569",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 75,
+        "price": 62625.0,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:20:55.840329",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.75,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:21:15.113366",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 76,
+        "price": 62624.7,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:21:18.348932",
+      "type": "trade_closed",
+      "message": "Cierre por MOMENTUM_FAIL",
+      "metadata": {
+        "side": "SHORT",
+        "entry": 62599.8,
+        "exit": 62654.3,
+        "pnl": -0.0294,
+        "duration_sec": 48
+      }
+    },
+    {
+      "time": "2026-06-11T00:21:37.069705",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 77,
+        "price": 62654.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:21:41.326958",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:22:02.983410",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 78,
+        "price": 62649.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:22:06.433016",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:22:30.288411",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 79,
+        "price": 62674.3,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:22:34.414877",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:22:55.839491",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 80,
+        "price": 62673.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:22:59.816482",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:23:20.713556",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 81,
+        "price": 62688.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:23:26.443955",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:23:52.051834",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 82,
+        "price": 62693.5,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:23:55.764787",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:24:19.995676",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 83,
+        "price": 62655.5,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:24:23.380794",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:24:46.475460",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 84,
+        "price": 62663.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:24:50.533647",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:25:10.998920",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 85,
+        "price": 62660.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:25:15.052900",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:25:35.497494",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 86,
+        "price": 62634.7,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:25:39.644488",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:25:40.754890",
+      "type": "trade_opened",
+      "message": "LONG abierta",
+      "metadata": {
+        "price": 62634.7,
+        "size": 0.001,
+        "cost": 0.062735,
+        "expected_net_gain": 0.021822
+      }
+    },
+    {
+      "time": "2026-06-11T00:26:08.501826",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 87,
+        "price": 62619.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:26:16.281921",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.75,
+        "razon": "CISNE_NEGRO_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:26:42.657816",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 88,
+        "price": 62641.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:26:46.349406",
+      "type": "trade_closed",
+      "message": "Cierre por TIMEBOX_EXIT",
+      "metadata": {
+        "side": "LONG",
+        "entry": 62634.7,
+        "exit": 62611.5,
+        "pnl": -0.0065,
+        "duration_sec": 66
+      }
+    },
+    {
+      "time": "2026-06-11T00:27:06.466449",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 89,
+        "price": 62613.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:27:10.778932",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:45:47.876133",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 1,
+        "price": 62669.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:45:53.267482",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_IMPULSO_Y_ALTA_INCERTIDUMBRE",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:45:56.095829",
+      "type": "trade_opened",
+      "message": "LONG abierta",
+      "metadata": {
+        "price": 62669.8,
+        "signal_price": 62669.8,
+        "size": 0.001,
+        "cost": 0.078437,
+        "expected_net_gain": 0.018701
+      }
+    },
+    {
+      "time": "2026-06-11T00:46:28.446326",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 2,
+        "price": 62669.8,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:46:35.763477",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.65,
+        "razon": "CISNE_NEGRO_ACTIVO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:47:02.016178",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 3,
+        "price": 62657.1,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:47:08.551954",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.65,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:47:33.243380",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 4,
+        "price": 62650.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:47:39.352695",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.65,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:48:10.319639",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 5,
+        "price": 62644.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:48:17.245712",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.7,
+        "razon": "CISNE_NEGRO_ACTIVO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:48:44.008503",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 6,
+        "price": 62600.0,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:48:50.059201",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.75,
+        "razon": "CISNE_NEGRO_ACTIVO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:49:16.390612",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 7,
+        "price": 62629.2,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:49:22.488807",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "CISNE_NEGRO_ACTIVO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:49:47.442636",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 8,
+        "price": 62639.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:49:52.959770",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "CISNE_NEGRO_ACTIVO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:50:18.181307",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 9,
+        "price": 62622.2,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T00:50:24.348933",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "CISNE_NEGRO_ACTIVO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:50:28.335326",
+      "type": "trade_closed",
+      "message": "Cierre por CERRAR",
+      "metadata": {
+        "side": "LONG",
+        "entry": 62669.8,
+        "exit": 62622.2,
+        "pnl": -0.11024600000000584,
+        "gross_pnl": -0.047600000000005825,
+        "estimated_fee": 0.06264600000000001,
+        "duration_sec": 275
+      }
+    },
+    {
+      "time": "2026-06-11T00:51:06.947950",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 10,
+        "price": 62606.3,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:51:12.333623",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:51:42.646167",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 11,
+        "price": 62595.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:51:47.917204",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T00:52:16.656602",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 12,
+        "price": 62610.6,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T00:52:21.370824",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:00:01.963194",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 1,
+        "price": 62571.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:00:06.677891",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:00:30.435794",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 2,
+        "price": 62577.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:00:35.130571",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:00:56.514670",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 3,
+        "price": 62600.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:01:00.943557",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:01:30.886494",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 4,
+        "price": 62599.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:01:35.247491",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:02:07.181551",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 5,
+        "price": 62575.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:02:12.063925",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:02:42.557812",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 6,
+        "price": 62576.6,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:02:47.151527",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_IMPULSO_Y_ALTA_INCERTIDUMBRE",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:03:15.620518",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 7,
+        "price": 62573.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:03:20.491478",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_IMPULSO_Y_ALTA_INCERTIDUMBRE",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:04:08.589078",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 1,
+        "price": 62600.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:04:12.964114",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_IMPULSO_Y_ALTA_INCERTIDUMBRE",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:04:35.595402",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 2,
+        "price": 62569.6,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:04:39.823104",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:05:01.866945",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 3,
+        "price": 62537.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:05:06.544788",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_IMPULSO_Y_ALTA_INCERTIDUMBRE",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:05:35.423784",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 4,
+        "price": 62521.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:05:40.946279",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_IMPULSO_Y_ALTA_INCERTIDUMBRE",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:06:02.414247",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 5,
+        "price": 62538.5,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:06:06.281391",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_IMPULSO_Y_ALTA_INCERTIDUMBRE",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:06:24.326646",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 6,
+        "price": 62545.3,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:06:28.943312",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_IMPULSO_Y_ALTA_INCERTIDUMBRE",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:07:05.587232",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 7,
+        "price": 62554.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:07:10.422139",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_IMPULSO_Y_ALTA_INCERTIDUMBRE",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:07:39.050817",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 8,
+        "price": 62565.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:07:44.272815",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_IMPULSO_Y_ALTA_INCERTIDUMBRE",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:08:05.436993",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 9,
+        "price": 62563.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:08:09.432815",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:08:30.836777",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 10,
+        "price": 62551.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:08:35.148844",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:09:05.554998",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 11,
+        "price": 62619.7,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:09:11.171997",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:09:41.240206",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 12,
+        "price": 62632.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:09:45.642721",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:10:10.440751",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 13,
+        "price": 62611.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:10:15.403300",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:10:39.718563",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 14,
+        "price": 62644.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:10:44.276790",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:11:12.314665",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 15,
+        "price": 62640.7,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:11:16.570646",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:11:35.519633",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 16,
+        "price": 62636.6,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:11:39.513442",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:11:58.288624",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 17,
+        "price": 62640.5,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:12:02.425530",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:12:40.743993",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 18,
+        "price": 62689.6,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:12:47.113996",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:13:18.222531",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 19,
+        "price": 62727.6,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:13:25.122498",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_IMPULSO_Y_ALTA_INCERTIDUMBRE",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:13:50.686037",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 20,
+        "price": 62757.5,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:13:55.230025",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:14:44.020022",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 21,
+        "price": 62749.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:14:48.306916",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:14:50.719523",
+      "type": "trade_opened",
+      "message": "LONG abierta",
+      "metadata": {
+        "price": 62747.1,
+        "signal_price": 62749.2,
+        "size": 0.001,
+        "cost": 0.078537,
+        "expected_net_gain": 0.018725
+      }
+    },
+    {
+      "time": "2026-06-11T01:15:33.733723",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 22,
+        "price": 62747.0,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:15:41.971018",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.7,
+        "razon": "LONG_ABIERTO_SIN_IMPULSO",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:16:07.747395",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 23,
+        "price": 62792.4,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:16:14.370757",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.75,
+        "razon": "LONG_CON_BENEFICIO_CIERRE",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:16:37.308064",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 24,
+        "price": 62814.6,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:16:41.016179",
+      "type": "trade_closed",
+      "message": "Cierre por QUICK_TP",
+      "metadata": {
+        "side": "LONG",
+        "entry": 62747.1,
+        "exit": 62847.15039855,
+        "pnl": 0.037253264800724994,
+        "gross_pnl": 0.10005039,
+        "estimated_fee": 0.06279712519927501,
+        "duration_sec": 112
+      }
+    },
+    {
+      "time": "2026-06-11T01:16:59.644891",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 25,
+        "price": 62794.7,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:17:04.411948",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_IMPULSO_Y_ALTA_INCERTIDUMBRE",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:17:06.635036",
+      "type": "trade_opened",
+      "message": "LONG abierta",
+      "metadata": {
+        "price": 62778.9,
+        "signal_price": 62794.7,
+        "size": 0.001,
+        "cost": 0.078593,
+        "expected_net_gain": 0.018738
+      }
+    },
+    {
+      "time": "2026-06-11T01:17:25.769721",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 26,
+        "price": 62778.8,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:17:32.289501",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.65,
+        "razon": "LONG_CON_BENEFICIO_CIERRE",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:17:54.376818",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 27,
+        "price": 62784.6,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:18:00.066560",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_CON_BENEFICIO_CIERRE",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:18:22.686379",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 28,
+        "price": 62776.0,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:18:28.618826",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_CON_BENEFICIO_CIERRE",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:18:49.880143",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 29,
+        "price": 62722.3,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:18:55.915235",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_CON_BENEFICIO_CIERRE",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:19:20.515865",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 30,
+        "price": 62713.7,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:19:26.240524",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_SIN_IMPULSO_Y_PERDIDA",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:19:56.199076",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 31,
+        "price": 62714.7,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:20:02.012126",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_SIN_IMPULSO_Y_PERDIDA",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:20:22.846883",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 32,
+        "price": 62743.7,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:20:29.077856",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_SIN_IMPULSO_Y_PERDIDA",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:20:54.464597",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 33,
+        "price": 62783.4,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:21:00.765971",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_CON_BENEFICIO_CIERRE",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:21:33.939735",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 34,
+        "price": 62824.3,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:21:39.793581",
+      "type": "trade_closed",
+      "message": "Cierre por QUICK_TP",
+      "metadata": {
+        "side": "LONG",
+        "entry": 62778.9,
+        "exit": 62898.26784783,
+        "pnl": 0.056529256076085,
+        "gross_pnl": 0.11936784,
+        "estimated_fee": 0.062838583923915,
+        "duration_sec": 275
+      }
+    },
+    {
+      "time": "2026-06-11T01:22:07.315631",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 35,
+        "price": 62881.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:22:12.394218",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:22:14.743323",
+      "type": "trade_opened",
+      "message": "LONG abierta",
+      "metadata": {
+        "price": 62893.4,
+        "signal_price": 62881.2,
+        "size": 0.001,
+        "cost": 0.078702,
+        "expected_net_gain": 0.018764
+      }
+    },
+    {
+      "time": "2026-06-11T01:22:34.861453",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 36,
+        "price": 62890.0,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:22:39.824887",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_CON_BENEFICIO_CIERRE",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:22:58.231058",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 37,
+        "price": 62879.3,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:23:03.571053",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_SIN_IMPULSO_Y_PERDIDA",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:23:26.926835",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 38,
+        "price": 62874.8,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:23:33.331668",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_SIN_IMPULSO_Y_PERDIDA",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:24:01.615866",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 39,
+        "price": 62862.5,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:24:07.117223",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_SIN_IMPULSO_Y_PERDIDA",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:24:27.851130",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 40,
+        "price": 62894.2,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:24:33.415143",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_SIN_IMPULSO_Y_PERDIDA",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:24:54.944885",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 41,
+        "price": 62956.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:24:59.901740",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_CON_BENEFICIO_CIERRE",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:25:22.649829",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 42,
+        "price": 62933.7,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:25:28.727360",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_CON_BENEFICIO_CIERRE",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:25:47.773961",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 43,
+        "price": 62927.7,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:25:52.807322",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_CON_BENEFICIO_CIERRE",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:26:10.570249",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 44,
+        "price": 62909.2,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:26:15.914507",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_CON_BENEFICIO_CIERRE",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:26:34.773186",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 45,
+        "price": 62877.1,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:26:40.448742",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_SIN_IMPULSO_Y_PERDIDA",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:26:59.132388",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 46,
+        "price": 62868.7,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:27:04.992688",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_SIN_IMPULSO_Y_PERDIDA",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:27:22.836707",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 47,
+        "price": 62847.8,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:27:28.774576",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_SIN_IMPULSO_Y_PERDIDA",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:27:47.825422",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 48,
+        "price": 62842.0,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:27:53.755773",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_SIN_IMPULSO_Y_PERDIDA",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:28:25.453425",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 49,
+        "price": 62835.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:28:33.121505",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_SIN_IMPULSO_Y_PERDIDA",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:29:08.837466",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 50,
+        "price": 62835.5,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:29:16.365961",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_SIN_IMPULSO_Y_PERDIDA",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:29:20.920554",
+      "type": "trade_closed",
+      "message": "Cierre por CERRAR_EMERGENCY",
+      "metadata": {
+        "side": "LONG",
+        "entry": 62893.4,
+        "exit": 62835.5,
+        "pnl": -0.12076445000000147,
+        "gross_pnl": -0.05790000000000146,
+        "estimated_fee": 0.06286445,
+        "duration_sec": 428
+      }
+    },
+    {
+      "time": "2026-06-11T01:29:42.421756",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 51,
+        "price": 62820.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:29:47.220377",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:30:05.739717",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 52,
+        "price": 62842.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:30:10.475383",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "EVALUANDO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:30:28.545145",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 53,
+        "price": 62852.7,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:30:33.098458",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CISNE_NEGRO_SIN_IMPULSO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:30:35.919716",
+      "type": "trade_opened",
+      "message": "LONG abierta",
+      "metadata": {
+        "price": 62844.1,
+        "signal_price": 62852.7,
+        "size": 0.001,
+        "cost": 0.078666,
+        "expected_net_gain": 0.018756
+      }
+    },
+    {
+      "time": "2026-06-11T01:31:16.238815",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 54,
+        "price": 62844.1,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:31:28.663085",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_CON_BENEFICIO_CIERRE",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:33:07.660752",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 55,
+        "price": 62859.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:33:14.249686",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_CON_BENEFICIO_CIERRE",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:33:44.338641",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 56,
+        "price": 62876.4,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:33:52.259844",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "LONG_CON_BENEFICIO_CIERRE",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:34:22.463175",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 57,
+        "price": 62899.4,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:34:26.590156",
+      "type": "trade_closed",
+      "message": "Cierre por STALE_PROFIT",
+      "metadata": {
+        "side": "LONG",
+        "entry": 62844.1,
+        "exit": 62938.0,
+        "pnl": 0.031008949999999993,
+        "gross_pnl": 0.0939,
+        "estimated_fee": 0.06289105,
+        "duration_sec": 233
+      }
+    },
+    {
+      "time": "2026-06-11T01:34:49.459002",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 58,
+        "price": 62937.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:34:53.821140",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "EVALUANDO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:35:16.324119",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 59,
+        "price": 62923.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:35:20.781950",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "EVALUANDO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:35:44.816662",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 60,
+        "price": 62921.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:35:49.524601",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "EVALUANDO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:35:52.586059",
+      "type": "trade_opened",
+      "message": "SHORT abierta",
+      "metadata": {
+        "price": 62905.2,
+        "signal_price": 62921.4,
+        "size": 0.001,
+        "cost": 0.078752,
+        "expected_net_gain": 0.018776
+      }
+    },
+    {
+      "time": "2026-06-11T01:36:16.885407",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 61,
+        "price": 62905.8,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:36:22.958394",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SHORT_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:36:51.078492",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 62,
+        "price": 62927.0,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:36:57.163429",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SHORT_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:37:23.186824",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 63,
+        "price": 62949.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:37:29.991794",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SHORT_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:37:55.355858",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 64,
+        "price": 62952.5,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:38:02.569170",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SHORT_SIN_IMPULSO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:38:26.511894",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 65,
+        "price": 62935.1,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:38:32.036100",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SHORT_SIN_IMPULSO_Y_ALERTA",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:38:55.853165",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 66,
+        "price": 62929.3,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:39:01.718424",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SHORT_SIN_IMPULSO_Y_ALERTA",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:39:24.587091",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 67,
+        "price": 62945.4,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:39:31.070432",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SHORT_SIN_IMPULSO_Y_ALERTA",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:39:54.305006",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 68,
+        "price": 62938.2,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:40:00.398587",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SHORT_SIN_IMPULSO_Y_ALERTA",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:40:23.823600",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 69,
+        "price": 62934.7,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:40:30.390993",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SHORT_SIN_IMPULSO_Y_ALERTA",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:40:53.240602",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 70,
+        "price": 62946.2,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:41:00.027234",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SHORT_SIN_IMPULSO_Y_ALERTA",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:41:22.944424",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 71,
+        "price": 62935.4,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:41:28.942966",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SHORT_SIN_IMPULSO_Y_ALERTA",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:41:52.805587",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 72,
+        "price": 62877.7,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:41:59.482900",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SHORT_SIN_IMPULSO_Y_ALERTA",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:42:22.329175",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 73,
+        "price": 62954.6,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:42:28.718330",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SHORT_SIN_IMPULSO_Y_ALERTA",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:42:51.547360",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 74,
+        "price": 62951.8,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:42:55.470626",
+      "type": "trade_closed",
+      "message": "Cierre por EMERGENCY_TIMEBOX_EXIT",
+      "metadata": {
+        "side": "SHORT",
+        "entry": 62905.2,
+        "exit": 62922.72873913,
+        "pnl": -0.080442694369565,
+        "gross_pnl": -0.01752873,
+        "estimated_fee": 0.062913964369565,
+        "duration_sec": 425
+      }
+    },
+    {
+      "time": "2026-06-11T01:43:18.037999",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 75,
+        "price": 62921.5,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:43:24.257968",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "EVALUANDO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:43:46.566809",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 76,
+        "price": 62897.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:43:51.554567",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CIRCUIT_BREAKER_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:44:15.636436",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 77,
+        "price": 62885.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:44:21.206396",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CIRCUIT_BREAKER_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:44:47.101729",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 78,
+        "price": 62897.3,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:44:51.810268",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CIRCUIT_BREAKER_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:45:15.224607",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 79,
+        "price": 62892.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:45:21.278663",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CIRCUIT_BREAKER_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:45:48.307208",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 80,
+        "price": 62896.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:45:53.186438",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CIRCUIT_BREAKER_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:46:16.812587",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 81,
+        "price": 62873.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:46:21.120029",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CIRCUIT_BREAKER_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:46:44.186594",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 82,
+        "price": 62840.3,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:46:48.364079",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CIRCUIT_BREAKER_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:47:11.012435",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 83,
+        "price": 62851.7,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:47:15.703361",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CIRCUIT_BREAKER_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:47:39.043081",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 84,
+        "price": 62841.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:47:44.294398",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CIRCUIT_BREAKER_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:48:06.390463",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 85,
+        "price": 62830.7,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:48:10.764339",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "CIRCUIT_BREAKER_ACTIVO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:55:37.459230",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 1,
+        "price": 62749.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:55:41.951379",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "EVALUANDO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:55:44.637652",
+      "type": "trade_opened",
+      "message": "SHORT abierta",
+      "metadata": {
+        "price": 62747.3,
+        "signal_price": 62749.1,
+        "size": 0.001,
+        "cost": 0.078536,
+        "expected_net_gain": 0.037549
+      }
+    },
+    {
+      "time": "2026-06-11T01:56:07.604497",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 2,
+        "price": 62735.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:56:14.343360",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.75,
+        "razon": "SHORT_CON_BENEFICIO_Y_ALERTA",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:56:14.398316",
+      "type": "trade_closed",
+      "message": "Cierre por CERRAR_PROBABILIDAD_AGENTE",
+      "metadata": {
+        "side": "SHORT",
+        "entry": 62747.3,
+        "exit": 62735.9,
+        "pnl": -0.05134159999999855,
+        "gross_pnl": 0.011400000000001456,
+        "estimated_fee": 0.06274160000000001,
+        "duration_sec": 32
+      }
+    },
+    {
+      "time": "2026-06-11T01:56:33.787680",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 3,
+        "price": 62742.3,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:56:38.579210",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "EVALUANDO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:56:55.867660",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 4,
+        "price": 62733.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:57:00.452723",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:57:17.680006",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 5,
+        "price": 62733.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:57:22.044783",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:57:26.607623",
+      "type": "trade_opened",
+      "message": "SHORT abierta",
+      "metadata": {
+        "price": 62737.8,
+        "signal_price": 62733.9,
+        "size": 0.001,
+        "cost": 0.078517,
+        "expected_net_gain": 0.03754
+      }
+    },
+    {
+      "time": "2026-06-11T01:57:49.636669",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 6,
+        "price": 62741.5,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T01:57:55.819430",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.75,
+        "razon": "SHORT_CON_BENEFICIO_Y_ALERTA",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:57:55.868897",
+      "type": "trade_closed",
+      "message": "Cierre por CERRAR_PROBABILIDAD_AGENTE",
+      "metadata": {
+        "side": "SHORT",
+        "entry": 62737.8,
+        "exit": 62741.5,
+        "pnl": -0.0664396499999971,
+        "gross_pnl": -0.0036999999999970897,
+        "estimated_fee": 0.06273965000000001,
+        "duration_sec": 33
+      }
+    },
+    {
+      "time": "2026-06-11T01:58:14.502558",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 7,
+        "price": 62749.7,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:58:18.862969",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_114S",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:58:36.628883",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 8,
+        "price": 62767.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:58:40.413262",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_91S",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T01:59:16.552684",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 9,
+        "price": 62759.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T01:59:21.052208",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_70S",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:30:12.984167",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 1,
+        "price": 63403.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:30:17.211645",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "EVALUANDO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:30:32.776895",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 2,
+        "price": 63442.5,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:30:36.258441",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "EVALUANDO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:30:38.492336",
+      "type": "trade_opened",
+      "message": "SHORT abierta",
+      "metadata": {
+        "price": 63421.1,
+        "signal_price": 63442.5,
+        "size": 0.001,
+        "cost": 0.079403,
+        "expected_net_gain": 0.037965
+      }
+    },
+    {
+      "time": "2026-06-11T22:30:55.533241",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 3,
+        "price": 63404.5,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T22:31:01.092128",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.85,
+        "razon": "SHORT_CON_BENEFICIO_Y_ALERTA",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:31:01.115836",
+      "type": "trade_closed",
+      "message": "Cierre por CERRAR_PROBABILIDAD_AGENTE",
+      "metadata": {
+        "side": "SHORT",
+        "entry": 63421.1,
+        "exit": 63404.5,
+        "pnl": -0.04681280000000146,
+        "gross_pnl": 0.016599999999998546,
+        "estimated_fee": 0.0634128,
+        "duration_sec": 24
+      }
+    },
+    {
+      "time": "2026-06-11T22:31:19.765768",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 4,
+        "price": 63409.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:31:24.065762",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "COOLDOWN_ACTIVO_235S",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:31:39.707155",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 5,
+        "price": 63427.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:31:43.153292",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_DESEQUILIBRIO_CLARO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:31:57.936108",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 6,
+        "price": 63475.5,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:32:02.299455",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_DESEQUILIBRIO_CLARO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:32:16.758194",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 7,
+        "price": 63446.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:32:20.943900",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_DESEQUILIBRIO_CLARO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:32:38.325314",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 8,
+        "price": 63407.5,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:32:41.938600",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_DESEQUILIBRIO_CLARO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:32:59.992065",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 9,
+        "price": 63425.3,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:33:04.372955",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_DESEQUILIBRIO_CLARO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:33:19.457947",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 10,
+        "price": 63431.3,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:33:23.408099",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_DESEQUILIBRIO_CLARO",
+        "riesgo": "ALTO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:33:43.094969",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 11,
+        "price": 63437.0,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:33:46.842023",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_DESEQUILIBRIO_CLARO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:34:03.044578",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 12,
+        "price": 63443.7,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:34:06.974034",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_DESEQUILIBRIO_CLARO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:34:24.201916",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 13,
+        "price": 63443.7,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:34:28.754498",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_DESEQUILIBRIO_CLARO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:34:48.075162",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 14,
+        "price": 63427.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:34:51.995309",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_DESEQUILIBRIO_CLARO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:35:11.182481",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 15,
+        "price": 63474.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:35:15.782223",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_DESEQUILIBRIO_CLARO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:35:35.265888",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 16,
+        "price": 63492.8,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:35:39.432466",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_DESEQUILIBRIO_CLARO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:35:41.542647",
+      "type": "trade_opened",
+      "message": "LONG abierta",
+      "metadata": {
+        "price": 63456.9,
+        "signal_price": 63492.8,
+        "size": 0.001,
+        "cost": 0.079466,
+        "expected_net_gain": 0.037996
+      }
+    },
+    {
+      "time": "2026-06-11T22:36:00.150691",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 17,
+        "price": 63456.9,
+        "position": true
+      }
+    },
+    {
+      "time": "2026-06-11T22:36:05.631228",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "CERRAR",
+        "confianza": 0.75,
+        "razon": "LONG_SIN_IMPULSO_Y_RSI_DEBIL",
+        "riesgo": "BAJO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:36:05.694390",
+      "type": "trade_closed",
+      "message": "Cierre por CERRAR_PROBABILIDAD_AGENTE",
+      "metadata": {
+        "side": "LONG",
+        "entry": 63456.9,
+        "exit": 63456.9,
+        "pnl": -0.06345690000000001,
+        "gross_pnl": 0.0,
+        "estimated_fee": 0.06345690000000001,
+        "duration_sec": 26
+      }
+    },
+    {
+      "time": "2026-06-11T22:36:21.765556",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 18,
+        "price": 63445.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:36:25.841941",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_DESEQUILIBRIO_CLARO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:36:41.477078",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 19,
+        "price": 63445.2,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:36:46.301747",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_DESEQUILIBRIO_CLARO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:37:02.331236",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 20,
+        "price": 63430.9,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:37:06.865999",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_DESEQUILIBRIO_CLARO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:37:24.392154",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 21,
+        "price": 63437.4,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:37:27.814315",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_DESEQUILIBRIO_CLARO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:37:43.491652",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 22,
+        "price": 63451.7,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:37:46.642501",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_DESEQUILIBRIO_CLARO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:38:04.496757",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 23,
+        "price": 63456.1,
+        "position": false
+      }
+    },
+    {
+      "time": "2026-06-11T22:38:09.598226",
+      "type": "decision",
+      "message": "DeepSeek decision",
+      "metadata": {
+        "accion": "NEUTRAL",
+        "confianza": 0.0,
+        "razon": "SIN_DESEQUILIBRIO_CLARO",
+        "riesgo": "MEDIO"
+      }
+    },
+    {
+      "time": "2026-06-11T22:38:26.415733",
+      "type": "cycle_start",
+      "message": "Ciclo iniciado",
+      "metadata": {
+        "cycle": 24,
+        "price": 63454.2,
+        "position": false
+      }
+    }
+  ]
+}

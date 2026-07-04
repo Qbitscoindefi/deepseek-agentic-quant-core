@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+    ],
+    "settings": {
+        "terminal.integrated.enablePersistentSessions": false,
+        "terminal.integrated.defaultProfile.windows": "PowerShell",
+        "terminal.integrated.profiles.windows": {
+            "PowerShell": {
+                "source": "PowerShell",
+                "args": [
+                    "-NoExit",
+                    "-Command",
+                    "& 'C:\\OPENBRIDGE\\venv_wsl\\Scripts\\Activate.ps1'"
+                ]
+            },
+            "Command Prompt": {
+                "path": [
+                    "${env:windir}\\Sysnative\\cmd.exe",
+                    "${env:windir}\\System32\\cmd.exe"
+                ],
+                "args": [
+                    "/K",
+                    "C:\\OPENBRIDGE\\venv_wsl\\Scripts\\activate.bat"
+                ]
+            }
+        },
+        "files.associations": {
+            "*.py": "python",
+            "*.js": "javascript",
+            "*.ts": "typescript",
+            "*.json": "json",
+            "*.yml": "yaml",
+            "*.yaml": "yaml",
+            ".env": "plaintext",
+            "Dockerfile*": "dockerfile"
+        }
+    }
+}

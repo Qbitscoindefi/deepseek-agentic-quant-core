@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+*.log
+deepseek_memory.json
+engine_state.json
+mock_engine_state.json

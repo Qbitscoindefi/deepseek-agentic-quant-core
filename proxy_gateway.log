@@ -1,0 +1,11 @@
+2026-06-08 20:14:29,767 [INFO] Proxy Gateway iniciado en http://127.0.0.1:4000
+2026-06-08 20:14:29,768 [INFO] Modelos disponibles:
+2026-06-08 20:14:29,769 [INFO]   1. claude-code-free (via anthropic)
+2026-06-08 20:14:29,769 [INFO]   2. nvidia_nim/moonshotai/kimi-k2.6 (via openai)
+2026-06-08 20:14:29,769 [INFO]   3. openrouter/free (via openai)
+2026-06-08 20:14:29,770 [INFO]   4. qwen/qwen3-coder:free (via openai)
+2026-06-08 20:14:29,770 [INFO] 
+2026-06-08 20:14:29,770 [INFO] Endpoints de monitoreo:
+2026-06-08 20:14:29,770 [INFO]   /health  - Estado del proxy
+2026-06-08 20:14:29,771 [INFO]   /status  - Estadisticas detalladas
+2026-06-08 20:14:29,772 [INFO] 

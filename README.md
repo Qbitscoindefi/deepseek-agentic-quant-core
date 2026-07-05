@@ -39,7 +39,7 @@ By open-sourcing this engine, we aim to democratize quantitative analysis, allow
 ## 🏗️ Architecture Overview
 
 The system operates on a decentralized agent architecture:
-1. **Data Ingestion Node:** Subscribes to Binance/Exchange WebSockets (Tick data, Order Book depth).
+1. **Data Ingestion Node:** Subscribes to Global Crypto WebSockets (Tick data, Order Book depth).
 2. **Quant Core:** Processes raw data into normalized features (Delta, CVD, VWAP).
 3. **Agentic Council:** Different AI profiles (Risk Manager, Aggression Analyst, Spoofing Detector) debate the market state.
 4. **Execution Engine:** Executes the consensus trade via API.
@@ -59,8 +59,8 @@ pip install -r requirements.txt
 
 3. Configure Environment Variables (`.env`):
 ```env
-BINANCE_API_KEY=your_public_key
-BINANCE_API_SECRET=your_secret_key
+EXCHANGE_API_KEY=your_public_key
+EXCHANGE_API_SECRET=your_secret_key
 AI_PROVIDER_API_KEY=your_claude_or_deepseek_key
 ```
 
